@@ -1,2 +1,2 @@
 # jogo-da-velha
-Created with CodeSandbox
+Estrutura de um jogo da velha desenvolvido com a ajuda da documentação do reac, introdução.
